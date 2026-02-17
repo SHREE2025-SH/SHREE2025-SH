@@ -1,1 +1,32 @@
 # -SHREE2025-SH
+
+# Hi there, I'm Spandan Das! 👋
+
+🚀 Developer in progress | Building ML Projects | Open to internships & collaborations
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+- 🤖 Logistic Regression
+- 🌳 Decision Trees (coming soon!)
+- 📊 Machine Learning Fundamentals
+
+---
+
+## 📫 Reach Me
+- 📧 spandandas3010@gmail.com
+- 📍 Pune, India
+
+---
+⭐ *"Developer in progress — one commit at a time!"*
