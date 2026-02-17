@@ -1,4 +1,4 @@
-# -SHREE2025-SH
+# SHREE2025-SH
 
 # Hi there, I'm Spandan Das! 👋
 
