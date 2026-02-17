@@ -29,4 +29,4 @@
 - 📍 Pune, India
 
 ---
-⭐ *"Developer in progress — one commit at a time!"*
+⭐ *Developer in progress — one commit at a time!*
